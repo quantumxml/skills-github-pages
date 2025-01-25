@@ -2,10 +2,12 @@
 title: Welcome to my professional website. 
 date: 2025-01-24
 ---
-self notes:
 
+---
 title: Conversation with Gemini
 date: 2025-01-24
+---
+
 Hi.
 
 
