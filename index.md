@@ -4,7 +4,8 @@ date: 2025-01-24
 ---
 self notes:
 
-Conversation with Gemini
+title: Conversation with Gemini
+date: 2025-01-24
 Hi.
 
 
