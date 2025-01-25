@@ -1,5 +1,5 @@
 ---
-title: Welcome to my professional website. 
+title: Welcome to my blog website. 
 date: 2025-01-24
 ---
 
